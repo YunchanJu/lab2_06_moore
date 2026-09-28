@@ -1,0 +1,9 @@
+{
+  "sources": [
+    "src/input_frontend.v",
+    "src/lab2_moore.v",
+    "src/moore_cycle.v"
+  ],
+  "testbench": "sim/tb_moore_cycle.sv",
+  "simulation_top": "tb_moore_cycle"
+}
